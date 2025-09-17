@@ -1,8 +1,3 @@
-Got it ✅ — I’ll prepare a **clean, well-structured, reference-ready note** on **Order of Operations (BODMAS)** that you can directly save in your `.txt` file and push to GitHub.  
-I’ll keep it **clear, modular, and professional** so it works perfectly as a long-term reference.
-
----
-
 # **Order of Operations (BODMAS)**
 
 ## **1. Definition**
@@ -113,9 +108,3 @@ Try solving these using BODMAS:
 3. \( 6 + 12 \div (3 \times 2) \)  
 4. \( (5^2 - 9) \times 2 \)  
 5. \( 100 \div 5 \times (2 + 3) \)
-
----
-
-If you want, I can also prepare a **"BODMAS Advanced Tricks & Edge Cases"** section for your GitHub note — covering nested brackets, negative numbers, and fractional exponents — so your reference file becomes **complete and interview-ready**.  
-
-Do you want me to add that advanced section now?
