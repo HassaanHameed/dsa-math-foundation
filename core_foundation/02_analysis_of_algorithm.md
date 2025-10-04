@@ -1,5 +1,3 @@
----
-
 ## 📊 1. Analysis of Algorithms
 - **Definition**: The process of determining the efficiency of an algorithm in terms of time and space.
 - **Why it matters**: Two algorithms may solve the same problem, but one could be 100× faster or use far less memory.
@@ -8,8 +6,6 @@
   - **Space Complexity** → How much memory is required.
   - **Correctness** → Does it always produce the right result?
   - **Scalability** → How it behaves as input grows very large.
-
----
 
 ## 🔁 2. Analysis of Common Loops & Recursion
 ### Loops
