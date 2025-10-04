@@ -4,9 +4,7 @@
 An **Arithmetic Progression** is a sequence of numbers where the **difference between consecutive terms is constant**.
 
 ### General Form
-```
 a, a + d, a + 2d, a + 3d, … 
-```
 - **a** = first term  
 - **d** = common difference  
 
@@ -37,9 +35,7 @@ AP = 3, 7, 11, 15, …
 A **Geometric Progression** is a sequence where each term is obtained by **multiplying the previous term by a constant ratio**.
 
 ### General Form
-```
 a, ar, ar², ar³, …
-```
 - **a** = first term  
 - **r** = common ratio  
 
