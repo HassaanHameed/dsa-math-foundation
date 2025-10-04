@@ -14,33 +14,33 @@
 ## 🔁 2. Analysis of Common Loops & Recursion
 ### Loops
 - **Single loop**:  
-  ```cpp
+  cpp
   for (int i = 0; i < n; i++) { ... }
-  ```
+  
   → Runs **n times** → **O(n)**.
 - **Nested loop**:  
-  ```cpp
+  cpp
   for (int i = 0; i < n; i++) {
       for (int j = 0; j < n; j++) { ... }
   }
-  ```
+ 
   → Runs **n × n = n² times** → **O(n²)**.
 - **Dependent loop**:  
-  ```cpp
+ cpp
   for (int i = 0; i < n; i++) {
       for (int j = 0; j < i; j++) { ... }
   }
-  ```
+ 
   → Runs **1 + 2 + … + n ≈ n²/2** → **O(n²)**.
 
 ### Recursion
 - **Example**: Factorial  
-  ```cpp
+  cpp
   int fact(int n) {
       if (n == 0) return 1;
       return n * fact(n-1);
   }
-  ```
+ 
   - Each call reduces `n` by 1 → **n calls** → **O(n)**.
 - **Divide & Conquer Example**: Merge Sort  
   - Splits array into halves → recurrence:  
